@@ -13,6 +13,8 @@ jobs:
     if: ${{ github.event.projects_v2_item.column == 'done'}}
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: GitHub Project Automation+
       - uses: alex-page/github-project-automation-plus@v0.8.3
