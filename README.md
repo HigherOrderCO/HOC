@@ -2,13 +2,7 @@
 
 ## About us
 
-Higher Order Company (HOC) is a pioneering enterprise dedicated to advancing humanity's technological capabilities through functional programming and cutting-edge research in type theory and proof assistants. Our unique selling point is that we are pioneers in the field of functional programming and research in type theory and proof assistants. Our core innovations, the Higher-order Virtual Machine (HVM) and Kind2, are revolutionizing the field of computation.
-
-HVM is a pure functional, lazy, non-garbage-collected, and massively parallel runtime, leveraging the Interaction Net model to outperform traditional alternatives in higher-order computations. 
-
-Kind2, built upon HVM, offers unprecedented speed and efficiency in type-checking and program execution, making it the perfect tool for developers seeking to optimize their code.
-
-At HOC, our mission is to refine and develop these groundbreaking technologies, creating products and applications that drive humanity's technological progress into the parallel, functional future of computing.
+What is the true nature of computation? Historically, the Turing Machine and the Lambda Calculus have been the pillars of computational theory, shaping our understanding and practice of programming. Despite their equivalence in terms of computation, as established by the Church-Turing thesis, practical challenges in performance, security, and parallelism have revealed their inherent limitations. A significant evolution from these limitations is seen in a new model of computation, Interaction Combinators, developed by Yves Lafont, which deconstructs computation into two truly atomic operations - commutation and annihilation, leading to enhanced efficiency, security, and inherent parallelism. At Higher Order Company, our singular mission is to harness the potential of Interaction Nets, thereby aiming to make computing languages, runtimes, and hardware faster and more efficient for everyone.
 
 ### Our Team
 - [Savio](https://github.com/NaoEhSavio)
