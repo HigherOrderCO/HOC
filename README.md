@@ -1,4 +1,4 @@
-# HOC - Higher Order Company
+# Higher Order Company
 
 ## About us
 
