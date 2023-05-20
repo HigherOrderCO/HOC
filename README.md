@@ -1,4 +1,4 @@
-# HoC's Landing Page
+# HOC - Higher Order Company
 
 ## About us
 
